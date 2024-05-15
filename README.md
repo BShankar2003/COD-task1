@@ -1,7 +1,7 @@
 B SHANKAR SUBHAN SINGH
-ID = "CT08JP0"
+ID = "CT08WDOP"
 Domain :'WEB DEVELOPMENT '
-DURATION:4 WEEKS 
+DURATION:8 WEEKS (2 MONTHS)
 MENTOR : SRAVANI GOUNI
 DESCRIPTION :
 The to-do list web application is a user-friendly tool designed to help individuals organize their tasks and manage their time effectively. With a clean and intuitive interface, users can easily add, track, and mark tasks as completed, facilitating productivity and goal accomplishment.
